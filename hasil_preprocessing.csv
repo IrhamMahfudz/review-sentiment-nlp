@@ -1,0 +1,11 @@
+teks_asli,tokens,filtered,stemming,lemmatization
+Produk ini sangat bagus sekali!,"['Produk', 'ini', 'sangat', 'bagus', 'sekali', '!']","['Produk', 'bagus']",produk bagus,Produk bagus
+Saya kurang puas dengan layanan.,"['Saya', 'kurang', 'puas', 'dengan', 'layanan', '.']","['puas', 'layanan']",puas layan,puas layanan
+Pengiriman cepat dan barang sesuai.,"['Pengiriman', 'cepat', 'dan', 'barang', 'sesuai', '.']","['Pengiriman', 'cepat', 'barang', 'sesuai']",kirim cepat barang sesuai,Pengiriman cepat barang sesuai
+Kualitas bahan kurang bagus.,"['Kualitas', 'bahan', 'kurang', 'bagus', '.']","['Kualitas', 'bahan', 'bagus']",kualitas bahan bagus,Kualitas bahan bagus
+Harga murah tapi kualitas oke.,"['Harga', 'murah', 'tapi', 'kualitas', 'oke', '.']","['Harga', 'murah', 'kualitas', 'oke']",harga murah kualitas oke,Harga murah kualitas oke
+"Packing rapi, pengiriman tepat waktu.","['Packing', 'rapi', ',', 'pengiriman', 'tepat', 'waktu', '.']","['Packing', 'rapi', 'pengiriman']",packing rapi kirim,Packing rapi pengiriman
+Barang rusak saat diterima.,"['Barang', 'rusak', 'saat', 'diterima', '.']","['Barang', 'rusak', 'diterima']",barang rusak terima,Barang rusak diterima
+Sangat puas belanja di toko ini.,"['Sangat', 'puas', 'belanja', 'di', 'toko', 'ini', '.']","['puas', 'belanja', 'toko']",puas belanja toko,puas belanja toko
+Layanan customer service ramah.,"['Layanan', 'customer', 'service', 'ramah', '.']","['Layanan', 'customer', 'service', 'ramah']",layan customer service ramah,Layanan customer service ramah
+Ukuran tidak sesuai dengan deskripsi.,"['Ukuran', 'tidak', 'sesuai', 'dengan', 'deskripsi', '.']","['Ukuran', 'sesuai', 'deskripsi']",ukur sesuai deskripsi,Ukuran sesuai deskripsi
